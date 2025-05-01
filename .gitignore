@@ -1,0 +1,14 @@
+# Node modules (never push to git)
+node_modules/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Optional if you're using build tools
+dist/
